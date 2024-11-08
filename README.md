@@ -4,15 +4,16 @@
 
 **Dataset**
 
-    1. BSD400: D. Martin, C. Fowlkes, D. Tal and J. Malik, "A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics," Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001, Vancouver, BC, Canada, 2001, pp. 416-423 vol.2.
-    2. CBSD432: S. Roth and M. Black, “Fields of experts,” International Journal of Computer Vision, vol. 82, pp. 205–229, 04 2009.
-    3. Set5: M. Bevilacqua, A. Roumy, C. M. Guillemot, and M.-L. Alberi-Morel, “Low-complexity single-image super-resolution based on nonnegative neighbor embedding,” in British Machine Vision Conference, 2012.
-    4. Set14: R. Zeyde, M. Elad, and M. Protter, “On single image scale-up using sparse-representations,” in Curves and Surfaces, J.-D. Boissonnat, P. Chenin, A. Cohen, C. Gout, T. Lyche, M.-L. Mazure, and L. Schumaker, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2012, pp. 711–730.
-    5. BSD68: S. Roth and M. Black, “Fields of experts: a framework for learning image priors,” in 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR’05), vol. 2, 2005, pp. 860–867 vol. 2.
-    6. CBSD68: S. Roth and M. Black, “Fields of experts,” International Journal of Computer Vision, vol. 82, pp. 205–229, 04 2009.
-    7. SIDD: A. Abdelhamed, S. Lin, and M. S. Brown, “A high-quality denoising dataset for smartphone cameras,” in 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2018, pp. 1692–1700.
-    8. POLYU: J. Xu, H. Li, Z. Liang, D. Zhang, and L. Zhang, “Real-world noisy image denoising: A new benchmark,” CoRR, vol. abs/1804.02603, 2018.
-    9. Nam: S. Nam, Y. Hwang, Y. Matsushita, and S. J. Kim, “A holistic approach to cross-channel image noise modeling and its application to image denoising,” in 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 1683–1691.
+     1. BSD400: D. Martin, C. Fowlkes, D. Tal and J. Malik, "A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics," Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001, Vancouver, BC, Canada, 2001, pp. 416-423 vol.2.
+     2. CBSD432: S. Roth and M. Black, “Fields of experts,” International Journal of Computer Vision, vol. 82, pp. 205–229, 04 2009.
+     3. Set5: M. Bevilacqua, A. Roumy, C. M. Guillemot, and M.-L. Alberi-Morel, “Low-complexity single-image super-resolution based on nonnegative neighbor embedding,” in British Machine Vision Conference, 2012.
+     4. Set14: R. Zeyde, M. Elad, and M. Protter, “On single image scale-up using sparse-representations,” in Curves and Surfaces, J.-D. Boissonnat, P. Chenin, A. Cohen, C. Gout, T. Lyche, M.-L. Mazure, and L. Schumaker, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2012, pp. 711–730.
+     5. BSD68: S. Roth and M. Black, “Fields of experts: a framework for learning image priors,” in 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR’05), vol. 2, 2005, pp. 860–867 vol. 2.
+     6. CBSD68: S. Roth and M. Black, “Fields of experts,” International Journal of Computer Vision, vol. 82, pp. 205–229, 04 2009.
+     7. SIDD: A. Abdelhamed, S. Lin, and M. S. Brown, “A high-quality denoising dataset for smartphone cameras,” in 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2018, pp. 1692–1700.
+     8. POLYU: J. Xu, H. Li, Z. Liang, D. Zhang, and L. Zhang, “Real-world noisy image denoising: A new benchmark,” CoRR, vol. abs/1804.02603, 2018.
+     9. Nam: S. Nam, Y. Hwang, Y. Matsushita, and S. J. Kim, “A holistic approach to cross-channel image noise modeling and its application to image denoising,” in 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 1683–1691.
+    10. UA-DETRAC: L. Wen, D. Du, Z. Cai, Z. Lei, M.-C. Chang, H. Qi, J. Lim, M.-H. Yang, and S. Lyu, “Ua-detrac: A new benchmark and protocol for multi-object detection and tracking,” Computer Vision and Image Understanding, vol. 193, p. 102907, 2020.
 
 **Comparing Methodologies**
 
