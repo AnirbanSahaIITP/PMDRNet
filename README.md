@@ -10,6 +10,8 @@
      4. Set14: R. Zeyde, M. Elad, and M. Protter, “On single image scale-up using sparse-representations,” in Curves and Surfaces, J.-D. Boissonnat, P. Chenin, A. Cohen, C. Gout, T. Lyche, M.-L. Mazure, and L. Schumaker, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2012, pp. 711–730.
      5. BSD68: S. Roth and M. Black, “Fields of experts: a framework for learning image priors,” in 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR’05), vol. 2, 2005, pp. 860–867 vol. 2.
      6. CBSD68: S. Roth and M. Black, “Fields of experts,” International Journal of Computer Vision, vol. 82, pp. 205–229, 04 2009.
+     7. SunHays80: J.-B. Huang, A. Singh, and N. Ahuja, “Single image super-resolution from transformed self-exemplars,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 5197–5206.
+     8. Manga109: Y. Matsui, K. Ito, Y. Aramaki, A. Fujimoto, T. Ogawa, T. Yamasaki, and K. Aizawa, “Sketch-based manga retrieval using manga109 dataset,” Multimedia Tools and Applications, vol. 76, no. 20, pp. 21 811–21 838, 2017.
      7. SIDD: A. Abdelhamed, S. Lin, and M. S. Brown, “A high-quality denoising dataset for smartphone cameras,” in 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2018, pp. 1692–1700.
      8. POLYU: J. Xu, H. Li, Z. Liang, D. Zhang, and L. Zhang, “Real-world noisy image denoising: A new benchmark,” CoRR, vol. abs/1804.02603, 2018.
      9. Nam: S. Nam, Y. Hwang, Y. Matsushita, and S. J. Kim, “A holistic approach to cross-channel image noise modeling and its application to image denoising,” in 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 1683–1691.
